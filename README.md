@@ -9,6 +9,8 @@ Problem Statement • Right now, the tickets in UVDesk are manually input. This 
 
 Proposed Solution Overview • We will design the update calender for future implementation into the UVDesk to auto-generate tickets based off the needs to keep the applications and the server environment running.
 
+-- Update calendar? Or create tickets?
+
 Technical Stack & Tools • Operating System(s): N/A • Programming Language:Python • Frameworks/Libraries:UVDesk API  • Databases/Storage:N/A • Infrastructure:N/A • Tools:Scripting with Python and API integreation with UVDesk, Documentation standards (Word, Google Docs)
 
 Prerequisite Knowledge & Skills •Python, API, Will research the requirements for creating the Update Calender
@@ -41,4 +43,4 @@ Student 1:____________________________ Date: 4/8/2026
 
 Student 2:____________________________ Date: 4/8/2026
 
-Professor:____________________________Date:4/8/2026
+Professor:_________Brett Bisesti______________Date:4/13/2026
